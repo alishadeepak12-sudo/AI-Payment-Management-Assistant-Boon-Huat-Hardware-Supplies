@@ -1,0 +1,6 @@
+{
+  "name": "AI Payment Management Assistant",
+  "description": "Payment scheduling, risk calculation, 3-way match payment prioritizing, and automated supplier communications for Boon Huat Hardware & Supplies Pte Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
